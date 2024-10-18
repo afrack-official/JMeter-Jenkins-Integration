@@ -11,3 +11,6 @@ Set Up JMeter: Create a JMeter test plan that simulates user interactions with y
 > Execute Load Tests: The pipeline runs the JMeter tests in non-GUI mode, collecting performance metrics and sending the data to InfluxDB. This allows for real-time monitoring and analysis. You can also view live updates on the Grafana dashboard, providing visual insights into application performance during and after the tests.
 
 > Auto Deploy VMs: A script included in the repository automates the deployment of virtual machines according to the load test requirements. This ensures that the testing environment scales dynamically based on the load being tested.
+
+# Contributing ❤️
+>> We encourage contributions to enhance this collection of test plan prototypes. Feel free to submit your own prototypes, report issues, or suggest improvements.
